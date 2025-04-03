@@ -1,4 +1,29 @@
-html {
-  height: 100%;
-  width: 100%;
+head{
+  background-color: #2122;
+}
+#Titulo{
+  text-align: center;
+  font-style: italic;
+  font-size: 40px;
+  color: blue;
+ 
+}
+body{
+  background-color: #cccc;
+}
+.livros{
+  font-size: 25px;
+  font-style: italic;
+}
+.imagems{
+ padding: 20px;
+}
+.preços{
+  color: red;
+}
+.compre-aqui{
+  font-size: 20px;
+}
+.sinopse{
+  font-size: 20px;
 }
